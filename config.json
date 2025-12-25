@@ -1,1 +1,7 @@
-0
+{
+  "engine": "deepgram",
+  "deepgram_key": "71f295d441b40625cb873d37ff0e33d329a8ab08",
+  "whisper_model": "base",
+  "translate": true,
+  "target_lang": "ar"
+}
