@@ -1,2 +1,5 @@
-websockets>=10.0
-asyncio
+websockets
+deep-translator
+openai-whisper
+numpy
+torch
